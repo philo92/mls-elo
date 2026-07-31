@@ -43,7 +43,7 @@ The model follows the standard Elo methodology used across most football Elo imp
 - **Initial rating**: Every team starts at an Elo of **1,500**.
 - **Match weighting**: All matches are weighted equally — there is no additional weight for playoffs, rivalries, or other match types.
 - **Margin of victory**: The Elo update accounts for goal difference — a team that wins by a larger margin gains more Elo than a team that wins narrowly.
-- **Everything else** (expected score calculation, 400-point ratings scale, home-field advantage adjustment, etc.) follows conventional Elo methodology.
+- **Everything else** (400-point ratings scale, home-field advantage adjustment, etc.) follows conventional Elo methodology.
 - **Two-legged playoff rounds (2003–2018)**: Some Conference Semifinals/Finals during this period were decided over two legs (aggregate score). For these ties, the two legs are combined into a single aggregate result and treated as one neutral-site match for Elo purposes, rather than as two separate updates.
 - **Extra time**: Some historical playoff matches may include extra-time scores. Going forward, updates will only use the regulation-time (90-minute) score.
 
